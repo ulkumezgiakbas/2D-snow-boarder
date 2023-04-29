@@ -16,3 +16,4 @@ Game Loop: Reach the end to win
 ![ss2](https://user-images.githubusercontent.com/126782676/234998188-4f902213-8f84-4f2c-a583-efc00bc3c7b7.jpg)
 ![ss3](https://user-images.githubusercontent.com/126782676/234998191-698cb78e-1c6b-4939-93d2-bc2ad631fd69.jpg)
 
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7058216495314591744/
